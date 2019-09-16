@@ -1,6 +1,9 @@
 # Uber-Supply-Demand-Case-Study
 <h1>Problem Statement</h1>: Find out the supply demand gap & any recommendations to improve the demand-supply gap & Secondly find the types of requests (city-airport or airport-city) for which the gap is the most severe in the identified time slots. 
 
+![untitled-2_88](https://user-images.githubusercontent.com/42913961/64995980-499d9b00-d8fa-11e9-85a2-0c6282db1008.png)
+
+
 <h1>Goals of Analysis</h1>:
 -> Identify critical problems in availability/ cancellation resulting in declined customer experience <br>
 -> Demand-Supply Gap analysis- Understand reasons for demand supply gap .<br>
